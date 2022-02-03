@@ -1,0 +1,9 @@
+body{
+    font-family: Lato,var(--pf-global--FontFamily--sans-serif);
+}
+.dash-card:hover{
+    box-shadow: 9px 9px 9px 5px #efeff1;
+}
+.dash-card{
+    background: #fff;
+}

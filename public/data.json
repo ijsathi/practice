@@ -1,0 +1,156 @@
+[
+    {
+      "id": 1,
+      "title": "[DEPRECATED] Hazelcast Enterprise Operator",
+      "description_1": "provided by Hazelcast, Inc",
+      "description_2": "Install Hazelcast Enterprise cluster",
+      "img": "https://i.ibb.co/zxpvtNZ/Capture.png"
+    },
+    {
+      "id": 2,
+      "title": "[DEPRECATED] Hazelcast Jet Enterprise Operator",
+      "description_1": "provided by Hazelcast, Inc",
+      "description_2": "Install Hazelcast Jet Enterprise cluster.",
+      "img": "https://i.ibb.co/YNkRKwp/Capture1.png"
+    },
+    {
+      "id": 3,
+      "title": "aiven Operator",
+      "description_1": "provided by aiven",
+      "description_2": "Manage your https://aiven.io/ resources with Kubernetes.",
+      "img": "https://i.ibb.co/5cmd8yQ/Capturwe.png"
+    },
+    {
+      "id": 4,
+      "title": "Akka Cluster Operator",
+      "description_1": "provided by Lightbend, Inc",
+      "description_2": "Run Akka Cluster applications on Kubernetes.",
+      "img": "https://i.ibb.co/gj3Dg0h/Capturse.png"
+    },
+    {
+      "id": 5,
+      "title": "Apache Spark Operator",
+      "description_1": "provided by radanalytics.io",
+      "description_2": "An operator for managing the Apache Spark cluster and intelligent applications. ",
+      "img": "https://i.ibb.co/yWjj78N/download.png"
+    },
+    {
+      "id": 6,
+      "title": "Appsody Operator",
+      "description_1": "provided by Appsody",
+      "description_2": "Deploys Appsody based applications",
+      "img": "https://i.ibb.co/xhv6wrD/Captures.png"
+    },
+    {
+      "id": 7,
+      "title": "ArangoDB",
+      "description_1": "provided by ArangoDB GmbH",
+      "description_2": "ArangoDB Kubernetes Operator.",
+      "img": "https://i.ibb.co/p4KHvgk/Capturye.png"
+    },
+    {
+      "id": 8,
+      "title": "Cassandra",
+      "description_1": "provided by Instacluster",
+      "description_2": "Manane the full lifycycle of the Cassandra clusters.",
+      "img": "https://i.ibb.co/WGF1Gsx/download-1.png"
+    },
+    {
+      "id": 9,
+      "title": "Appranix CPS Operator",
+      "description_1": "provided by Appranix Inc",
+      "description_2": "The Appranix CPS Operator enables you to back up. ",
+      "img": "https://i.ibb.co/fky0wFG/download.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Datadog Operator",
+      "description_1": "provided by Datadog",
+      "description_2": "Datadog provides a modern monitoring and analytics platform.",
+      "img": "https://i.ibb.co/jDtR7Nm/Captuwre.png"
+    },
+    {
+      "id": 11,
+      "title": "Nuxeo Operator",
+      "description_1": "provided by Eric Ace",
+      "description_2": "The Nuxeo Operator manages a Nuxeo cluster, integrating it with backing services.",
+      "img": "https://i.ibb.co/d0xBR01/Capturue.png"
+    },
+    {
+      "id": 12,
+      "title": "[DEPRECATED] Hazelcast Enterprise Operator",
+      "description_1": "provided by Hazelcast, Inc",
+      "description_2": "Install Hazelcast Enterprise cluster",
+      "img": "https://i.ibb.co/zxpvtNZ/Capture.png"
+    },
+    {
+      "id": 13,
+      "title": "[DEPRECATED] Hazelcast Jet Enterprise Operator",
+      "description_1": "provided by Hazelcast, Inc",
+      "description_2": "Install Hazelcast Jet Enterprise cluster.",
+      "img": "https://i.ibb.co/YNkRKwp/Capture1.png"
+    },
+    {
+      "id": 14,
+      "title": "aiven Operator",
+      "description_1": "provided by aiven",
+      "description_2": "Manage your https://aiven.io/ resources with Kubernetes.",
+      "img": "https://i.ibb.co/5cmd8yQ/Capturwe.png"
+    },
+    {
+      "id": 15,
+      "title": "Akka Cluster Operator",
+      "description_1": "provided by Lightbend, Inc",
+      "description_2": "Run Akka Cluster applications on Kubernetes.",
+      "img": "https://i.ibb.co/gj3Dg0h/Capturse.png"
+    },
+    {
+      "id": 16,
+      "title": "Apache Spark Operator",
+      "description_1": "provided by radanalytics.io",
+      "description_2": "An operator for managing the Apache Spark cluster and intelligent applications. ",
+      "img": "https://i.ibb.co/yWjj78N/download.png"
+    },
+    {
+      "id": 17,
+      "title": "Appsody Operator",
+      "description_1": "provided by Appsody",
+      "description_2": "Deploys Appsody based applications",
+      "img": "https://i.ibb.co/xhv6wrD/Captures.png"
+    },
+    {
+      "id": 18,
+      "title": "ArangoDB",
+      "description_1": "provided by ArangoDB GmbH",
+      "description_2": "ArangoDB Kubernetes Operator.",
+      "img": "https://i.ibb.co/p4KHvgk/Capturye.png"
+    },
+    {
+      "id": 19,
+      "title": "Cassandra",
+      "description_1": "provided by Instacluster",
+      "description_2": "Manage the full lifecycle of the Cassandra clusters.",
+      "img": "https://i.ibb.co/WGF1Gsx/download-1.png"
+    },
+    {
+      "id": 20,
+      "title": "Appranix CPS Operator",
+      "description_1": "provided by Appranix Inc",
+      "description_2": "The Appranix CPS Operator enables you to back up. ",
+      "img": "https://i.ibb.co/fky0wFG/download.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Datadog Operator",
+      "description_1": "provided by Datadog",
+      "description_2": "Datadog provides a modern monitoring and analytics platform.",
+      "img": "https://i.ibb.co/jDtR7Nm/Captuwre.png"
+    },
+    {
+      "id": 22,
+      "title": "Nuxeo Operator",
+      "description_1": "provided by Eric Ace",
+      "description_2": "The Nuxeo Operator manages a Nuxeo cluster, integrating it with backing services.",
+      "img": "https://i.ibb.co/d0xBR01/Capturue.png"
+    }
+  ]

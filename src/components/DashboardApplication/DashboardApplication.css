@@ -1,0 +1,13 @@
+.catagories{
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+.catagories:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #eaeaea;
+}
+.catagori-list:hover{
+    color: #489aeb;
+    border-bottom: 2px solid #489aeb;
+}
